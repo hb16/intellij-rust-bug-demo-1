@@ -1,0 +1,8 @@
+[package]
+name = "intellij-rust-bug-demo-1"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+indexmap = "1.6.2"
+regex = "1.4.5"
